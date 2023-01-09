@@ -1,0 +1,11 @@
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe.config
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.pdb
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.AssemblyReference.cache
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.SuggestedBindingRedirects.cache
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.Frm_Login.resources
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.Properties.Resources.resources
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.GenerateResource.cache
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.CoreCompileInputs.cache
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.exe
+D:\Visualstudio\IATC  C# lessons\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.pdb
